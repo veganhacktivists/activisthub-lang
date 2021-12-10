@@ -22,7 +22,7 @@ return [
 
     // free-vegan-mentor element
     'mentor.signup' => 'Melden Sie sich an für Ihr',
-    'mentor.header' => 'Kostenloses veganes Mentoring!', // The German language is gendered. To be inclusive for all genders (and not horrible to read) I slightly changed the meaning to "free vegan mentoring". Below I used the generic masculine version of the words. 
+    'mentor.header' => 'Kostenloses veganes Mentoring!', // The German language is gendered. To be inclusive for all genders (and not horrible to read) I slightly changed the meaning to "free vegan mentoring". Below I used the generic masculine version of the words.
     'mentor.desc.1' => 'Wir haben mit dem veganen Mentoring-Programm von Vegan Outreach zusammengearbeitet, um Ihnen den Einstieg zu erleichtern, indem Sie persönlichen Support bekommen!',
     'mentor.desc.2' => 'In dem Mentoring-Programm steht Ihnen ein persönlicher Mentor zur Seite, der Ihnen Fragen beantwortet und Sie mit nützlichen Tipps für das Einkaufen, Kochen und Essen gehen unterstützt und bei Ernährungsfragen hilft. Das Programm möchte eine gesunde und nachhaltige Lifestyle-Veränderung fördern, indem es Support und Informationen bietet, die Liebe über Gewalt stellen.',
     'mentor.request-button' => 'Einen Mentor anfordern',
@@ -62,8 +62,8 @@ return [
     'resources.desc.the-game-changers' => 'Mit innovativen Wissenschaftlern und Spitzensportlern begibt sich ein UFC-Kämpfer auf die Suche nach der idealen Ernährung für optimale Gesundheit und Höchstleistung.',
     'resources.title.cowspiracy' => 'Cowspiracy', // It's also called Cowspiracy in German
     'resources.desc.cowspiracy' => 'Erfahren Sie, warum industrielle Viehhaltung unsere natürlichen Ressourcen erschöpft – und warum große Umweltschutzorganisationen das Problem zu ignorieren scheinen.',
-	
-	// I added a translation for forks-over-knives that has a different name in German:
-	'resources.title.forks-over-knives' => 'Gabel statt Skalpell',
+
+    // I added a translation for forks-over-knives that has a different name in German:
+    'resources.title.forks-over-knives' => 'Gabel statt Skalpell',
     'resources.desc.forks-over-knives' => 'Gesünder leben ohne Fleisch. Der renommierte Biochemiker Prof. Dr. T. Colin Campbell leitete in den 1970 und 1980er Jahren die sogenannte China Study, in der ein unmittelbarer Zusammenhang zwischen dem Verzehr von tierischen Produkten und dem Auftreten von Krankheiten wie Krebs, Diabetes, Herz-Kreislauf-Erkrankungen und Autoimmunerkrankungen nachgewiesen werden konnte.',
 ];

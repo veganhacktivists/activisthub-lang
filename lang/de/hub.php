@@ -25,7 +25,7 @@ return [
     'organisation.browse' => ':word durchsuchen', // changed the order
     'organisation.browse.summary' => ':group Gruppen,:members Mitglieder, seit :date', // the placeholder were broken I think
     'organisation.chapter.visit' => 'Besuche Seite des Chapters.',
-    'organisation.chapter.summary' => ':city, :count members', 
+    'organisation.chapter.summary' => ':city, :count members',
     'organisation.chapter.unknown-city' => 'Unbekannte Stadt',
     'organisation.chapter.empty' => 'Keine Gruppen gefunden',
     'organisation.breadcrumb1' => 'Organisationen',
@@ -89,7 +89,7 @@ return [
     'notifications-settings.category.organizer' => 'Benachrichtigungen organisieren',
     'notifications-settings.type.site' => 'Aktivist-Hub',
     'notifications-settings.type.browser' => 'Webbrowser',
-    'notifications-settings.type.email' => 'E-Mail', // 
+    'notifications-settings.type.email' => 'E-Mail',
     'notifications-settings.submit' => 'Einstellungen speichern',
     'notifications-settings.friend-request-received' => 'Sie haben eine Freundschaftsanfrage erhalten',
     'notifications-settings.friend-request-accepted' => 'Eine Freundschaftsanfrage, die Sie gesendet haben, wurde akzeptiert',
