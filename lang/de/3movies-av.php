@@ -11,7 +11,7 @@ return [
     'nav.why' => 'Warum vegan?',
     'nav.cube' => 'Cube of Truth',
     'nav.chapters' => 'Chapter',
-    'nav.donate' => 'Unterstütze sie uns',
+    'nav.donate' => 'Unterstützen Sie uns',
     'nav.shop' => 'Shop',
     'nav.who' => 'Wer wir sind',
     'nav.blog' => 'Blog',
