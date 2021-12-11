@@ -55,7 +55,7 @@ return [
     //
     // TODO: add multilingual resource support to Backpack and the database, and delete these lines.
     'resources.title.dominion' => 'Dominion', // It's also called Dominion in German
-    'resources.desc.dominion' => 'Dominion verwendet Drohnen, versteckte und tragbare Kameras, um den Schattenseiten der modernen Tierhaltung auszudecken, die die Moral und Gültigkeit der Herrschaft der Menschheit über dem Tierreich in Frage stellt.',
+    'resources.desc.dominion' => 'Dominion verwendet Drohnen, versteckte und tragbare Kameras, um die Schattenseiten der modernen Tierhaltung aufzudecken, die die Moral und Gültigkeit der Herrschaft der Menschheit über das Tierreich in Frage stellen.',
     'resources.title.seaspiracy' => 'Seaspiracy', // It's also called Seaspiracy in German
     'resources.desc.seaspiracy' => 'Ein vom Meer begeisterter Filmemacher entdeckt bei seinen Nachforschungen über die Auswirkungen der Menschen auf die Meeresbewohner eine Verschwörung globalen Ausmaßes.',
     'resources.title.the-game-changers' => 'The Game Changers', // It's also called The Game Changers in German
