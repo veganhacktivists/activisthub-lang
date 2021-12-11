@@ -41,7 +41,7 @@ return [
     'resources.video' => 'Video anschauen',
 
     // footer
-    'footer.title' => 'Kommen Sie an die Front!',
+    'footer.title' => 'Werden Sie ein Teil von AV!',
     'footer.desc' => 'Wir sind eine weltweite Organisation von Straßenaktivisten, die den Stimmlosen eine Stimme widmen. Treten Sie uns bei und fangen Sie an, einen Unterschied zu machen.',
     'footer.join' => 'TRETEN SIE UNS BEI',
     'footer.join.title' => 'MITMACHEN',
