@@ -12,9 +12,9 @@ return [
     |
     */
 
-    'password' => 'Hasła muszą mieć co najmniej osiem znaków i pasują do potwierdzenia.',
-    'reset' => 'Twoje hasło zostało zresetowane!',
-    'sent' => 'Mamy e-maile Link Resetuj hasła!',
-    'token' => 'Ten token resetowania hasła jest nieprawidłowy.',
-    'user' => 'Nie możemy znaleźć użytkownika tego adresu e-mail.',
+    'password' => 'Hasła muszą mieć co najmniej osiem znaków i być zgodne z potwierdzeniem.',
+    'reset' => 'Twoje hasło zostało zmienione!',
+    'sent' => 'Wysłaliśmy e-mail z linkiem do zmiany hasła!',
+    'token' => 'Ten token zmiany hasła jest nieprawidłowy.',
+    'user' => 'Nie możemy znaleźć użytkownika z tym adresem e-mail.',
 ];

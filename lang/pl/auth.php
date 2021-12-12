@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'failed' => 'Te poświadczenia nie pasują do naszych rekordów.',
-    'throttle' => 'Zbyt wiele prób logowania.Spróbuj ponownie w: sekundy sekund.',
+    'failed' => 'Wprowadzone dane nie pasują do żadnego konta.',
+    'throttle' => 'Zbyt wiele prób logowania. Spróbuj ponownie za: sekundy sekund.',
 ];
