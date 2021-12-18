@@ -66,4 +66,15 @@ return [
     // I added a translation for forks-over-knives that has a different name in German:
     'resources.title.forks-over-knives' => 'Gabel statt Skalpell',
     'resources.desc.forks-over-knives' => 'Gesünder leben ohne Fleisch. Der renommierte Biochemiker Prof. Dr. T. Colin Campbell leitete in den 1970 und 1980er Jahren die sogenannte China Study, in der ein unmittelbarer Zusammenhang zwischen dem Verzehr von tierischen Produkten und dem Auftreten von Krankheiten wie Krebs, Diabetes, Herz-Kreislauf-Erkrankungen und Autoimmunerkrankungen nachgewiesen werden konnte.',
+
+    'resources.title.best-of-gary-yourofsky' => 'Das Beste von Gary Yourofsky',
+    'resources.desc.best-of-gary-yourofsky' => 'Millionen von Menschen wurden überzeugt, vegan zu leben, nachdem sie dem Tierrechtsaktivisten Gary Yourofsky zugehört haben.',
+    'resources.title.norm-a-short-film' => '"Norm" - ein Kurzfilm',
+    'resources.desc.norm-a-short-film' => 'Zwei Mitbewohner debattieren über die Moral der Vergewaltigung, in einer Gesellschaft, in der die Vergewaltigung von Frauen legal und gesellschaftlich akzeptiert ist.',
+    'resources.title.happy-cow-find-vegan-restaurants-nearby' => 'Happy Cow - Vegane Restaurants in der Nähe finden',
+    'resources.desc.happy-cow-find-vegan-restaurants-nearby' => 'Happy Cow findet die nächstgelegenen Restaurants und Geschäfte in Ihrer Nähe, die gutes veganes Essen anbieten, egal wo Sie wohnen!',
+    'resources.title.adapttorg' => 'Adaptt.org',
+    'resources.desc.adapttorg' => 'ADAPTT wurde 1996 gegründet und beantwortet alle Fragen rund um das Thema Veganismus, während es gleichzeitig alle anti-veganen Mythen aus dem Weg räumt!',
+    'resources.title.100-plant-based-recipes-community' => 'Community für 100% pflanzliche Rezepte',
+    'resources.desc.100-plant-based-recipes-community' => 'Die größte vegane Rezept-Community der Welt mit täglich neuen 100% pflanzlichen Rezepten! Treten Sie der Community bei und finden Sie jetzt leckere und günstige Rezepte!',
 ];
