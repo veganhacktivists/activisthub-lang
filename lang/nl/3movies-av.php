@@ -5,15 +5,15 @@ return [
 
     // top-level elements
     'title' => 'Hulpmiddelen - Anonymous for the Voiceless',
-    'header' => 'Het aantal dieren dat vermoord is in de vlees, zuivel- en eierindustrie, sinds u deze pagina hebt geopend:',
+    'header' => 'Het aantal dieren dat vermoord is in de vlees, zuivel- en eierindustrie, sinds je deze pagina hebt geopend:',
 
     // top navbar
     'nav.why' => 'WAAROM VEGAN?',
     'nav.cube' => 'Cube of Truth',
     'nav.donate' => 'Steun ons',
     'nav.shop' => 'Winkel',
-    'nav.who' => 'Wie we zijn',
-    'nav.join' => 'Doe met ons mee',
+    'nav.who' => 'Wie wij zijn',
+    'nav.join' => 'Doe mee',
     'nav.join.title' => 'Aansluiten bij AV',
 
     // where-did-you-find-us modal
@@ -24,8 +24,8 @@ return [
 
     // 'Are you ready now to take action?' panel at the bottom
     'action.title' => 'Ben je nu klaar om actie te ondernemen?',
-    'action.become' => 'Sluit je aan bij de meest productieve dierenrechtenorganisatie ter wereld',
-    'action.av' => 'Anonymous for the Voiceless (AV) is een non-profit dierenrechtenorganisatie die gespecialiseerd is in straatactivisme, waarbij we gesprekken voeren en standaardpraktijkbeelden tonen om voorbijgangers voor the lichten over de uitbuiting van dieren. We zijn oorspronkelijk opgericht in Melbourne, Australië, en vormen nu een wereldwijde gemeenschap van gelijkgestemde mensen die opkomen voor de rechten van andere dieren. Om de grootste impact te maken, moeten we mobiliseren en samenwerken.',
+    'action.become' => 'Sluit je aan bij AV',
+    'action.av' => 'Anonymous for the Voiceless (AV) is de meest productieve dierenrechtenorganisatie ter wereld. Wij zijn gespecialiseerd in straatactivisme, waarbij we met behulp van standaardpraktijkbeelden voorbijgangers voorlichten over de uitbuiting van dieren. We zijn oorspronkelijk opgericht in Melbourne, Australië, en vormen nu een wereldwijde gemeenschap van gelijkgestemde mensen die opkomen voor de rechten van andere dieren. Om de grootste impact te maken, moeten we mobiliseren en samenwerken.',
     'action.join' => 'Word lid van AV in 2 stappen',
     'action.join.title' => 'Aansluiten bij AV',
 
