@@ -62,4 +62,13 @@ return [
     'resources.desc.the-game-changers' => '人間のパフォーマンスと健康のための最適な食事を見つけるための探求に富んだ科学者とトップアスリートの出会いの出会い。',
     'resources.title.cowspiracy' => 'Cowspiracy',
     'resources.desc.cowspiracy' => '彼は大胆に最も押さえされている環境問題と持続可能性への真の道を見つけようとしているように、意欲的な環境地リストの衝撃的な、ユーモラスな旅に従ってください。',
+    'resources.title.best-of-gary-yourofsky' => 'ベスト・オブ・ゲイリー・ユロフスキー',
+    'resources.desc.best-of-gary-yourofsky' => 'アニマルライツ活動家であるゲイリー・ユロフスキーのお話しを聞いた後、何百万もの人々がヴィーガンへ移行する決意をしています。',
+    'resources.title.norm-a-short-film' => '「ノーム」：ショートフィルム',
+    'resources.desc.norm-a-short-film' => '女性に対するレイプが合法であり容認されている社会で、二人のルームメイトがレイプの倫理性について討論をします。',
+    'resources.title.happy-cow-find-vegan-restaurants-nearby' => 'Happy Cow：近所のヴィーガン レストランを探しましょう',
+    'resources.desc.happy-cow-find-vegan-restaurants-nearby' => 'どこに住んでいても、あなたの近くの、美味しいヴィーガン食品のあるレストランやお店を Happy Cow で見つけることができます。',
+    'resources.desc.adapttorg' => '1996年に設立されたADAPTTは、ヴィーガンに関するあらゆる質問に答え、反ヴィーガン的な神話をすべて覆します。',
+    'resources.title.100-plant-based-recipes-community' => '100% プラントベース レシピ コミュニティ',
+    'resources.desc.100-plant-based-recipes-community' => '世界で最大のヴィーガン レシピのコミュニティ。100％プラントベースのレシピが毎日更新されます。コミュニティに参加し、おいしく手ごろなレシピを見つけましょう！',
 ];
