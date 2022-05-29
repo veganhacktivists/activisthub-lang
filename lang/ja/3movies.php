@@ -55,7 +55,7 @@ return [
     //
     // TODO: add multilingual resource support to Backpack and the database, and delete these lines.
     'resources.title.dominion' => 'Dominion',
-    'resources.desc.dominion' => 'Dominionは、ドローン、隠されたカメラ、およびハンドヘルドカメラを使用して、現代の動物の農業の暗闇の下に暗くなり、動物の王国に対する人類の支配の道徳と妥当性について尋問しています。',
+    'resources.desc.dominion' => 'ドミニオンは、ドローンや隠しカメラを通して現代の畜産業の闇を暴露し、人間による動物界の支配に対する道徳性と妥当性を探ります。',
     'resources.title.seaspiracy' => 'Seaspiracy',
     'resources.desc.seaspiracy' => 'オーシャンライフに情熱を注いで、映画菓子は人間の種に行う危害を文書化し、世界的な汚職を警戒していない。',
     'resources.title.the-game-changers' => 'The Game Changers',
@@ -65,7 +65,7 @@ return [
     'resources.title.best-of-gary-yourofsky' => 'ベスト・オブ・ゲイリー・ユロフスキー',
     'resources.desc.best-of-gary-yourofsky' => 'アニマルライツ活動家であるゲイリー・ユロフスキーのお話しを聞いた後、何百万もの人々がヴィーガンへ移行する決意をしています。',
     'resources.title.norm-a-short-film' => '「ノーム」：ショートフィルム',
-    'resources.desc.norm-a-short-film' => '女性に対するレイプが合法であり容認されている社会で、二人のルームメイトがレイプの倫理性について討論をします。',
+    'resources.desc.norm-a-short-film' => '女性に対するレイプが合法であり容認されているある社会で、二人のルームメイトがレイプの倫理性について討論をします。',
     'resources.title.happy-cow-find-vegan-restaurants-nearby' => 'Happy Cow：近所のヴィーガン レストランを探しましょう',
     'resources.desc.happy-cow-find-vegan-restaurants-nearby' => 'どこに住んでいても、あなたの近くの、美味しいヴィーガン食品のあるレストランやお店を Happy Cow で見つけることができます。',
     'resources.desc.adapttorg' => '1996年に設立されたADAPTTは、ヴィーガンに関するあらゆる質問に答え、反ヴィーガン的な神話をすべて覆します。',
