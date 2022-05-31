@@ -4,7 +4,7 @@ return [
     /* av.3movies.org translation files */
 
     // top-level elements
-    'title' => 'リソース - 無声の匿名',
+    'title' => 'リソース - アノニマス・フォー・ザ・ボイスレス',
     'header' => 'あなたがこのページを開いてから、食肉・酪農・鶏卵業界でこれだけの動物が殺されました：',
 
     // top navbar
