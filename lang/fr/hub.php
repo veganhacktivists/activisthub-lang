@@ -387,6 +387,8 @@ return [
     'news-item-post.placeholder.profile' => "Dites quelque chose sur le profil de :name !",
     'news-item.date' => ':user le :date',
     'news-item.posted-on' => '<span class=":classSpan">Posté sur</span> <a class=":classA" href=":href">le profil de :name</a>',
+    'news-item.date' => ':user le :date',
+    'news-item.posted-in' => 'Posté dans :',
     'news-item.edit' => 'Éditer',
     'news-item.delete' => 'Supprimer',
     'news-item.delete.confirm' => 'Êtes-vous sûr de vouloir supprimer ?',
@@ -767,7 +769,7 @@ return [
     'explore-page.events' => 'Événements',
 
     'contact.title' => 'Contact',
-    'contact.success' => "Merci de nous avoir contactés ! Nous vous répondrons dès que possible.",
+    'contact.success' => "Merci de nous avoir cont*actés ! Nous vous répondrons dès que possible.",
     'contact.header' => 'Nous contacter',
     'contact.name' => 'Nom',
     'contact.email' => 'Adresse e-mail',
