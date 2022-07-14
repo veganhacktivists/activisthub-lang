@@ -543,4 +543,7 @@ return [
     'chapter.group_code_mode.group' => 'Un seul code de référence partagé entre tous les membres',
     'chapter.group_code_mode.none' => "Pas de code de référence, ne collecte pas de statistiques",
     'chapter.group_code_mode.none.help' => 'Pas de code de référence : ce groupe a choisi de ne pas collecter de statistiques',
+    
+    'read-more.read-more' => 'Afficher plus...',
+    'read-more.read-less' => 'Afficher moins...',
 ];
