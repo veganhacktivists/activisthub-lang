@@ -196,6 +196,7 @@ return [
     'organisations.members.show-more' => 'Afficher plus',
     'organisations.members.show-less' => 'Afficher moins',
     'organisations.members.message-admin' => 'Envoyer un message',
+    'organisations.announcement' => 'Annonce',
 
     '3movies.feedback.info' => "Nous proposons un bref sondage aux personnes que vous avez renvoyées vers 3Movies.org afin de mesurer l'impact que vous avez eu jusque là !",
     '3movies.feedback.info.av' => "Nous proposons un bref sondage aux personnes qui ont visité CubeOfTruth.com grâce à vous afin de mesurer l'impact que vous avez eu jusque là !",
@@ -543,7 +544,7 @@ return [
     'chapter.group_code_mode.group' => 'Un seul code de référence partagé entre tous les membres',
     'chapter.group_code_mode.none' => "Pas de code de référence, ne collecte pas de statistiques",
     'chapter.group_code_mode.none.help' => 'Pas de code de référence : ce groupe a choisi de ne pas collecter de statistiques',
-    
+
     'read-more.read-more' => 'Afficher plus...',
     'read-more.read-less' => 'Afficher moins...',
 ];
